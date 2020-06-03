@@ -1,14 +1,14 @@
-# Project 2: Investigating TMDb Movies Dataset
+
+# Investigating TMDb Movies Dataset
 
 ## TABLE OF CONTENTS
 
-A. Introduction
+A. [Introduction](#Introduction)
+B. [Data Wrangling](#DataWrangling)
+C. [Exploratory Data Analysis](#ExploratoryDataAnalysis)
+D. [Conclusions](#Conclusions)
 
-B. Data Wrangling
-
-C. Exploratory Data Analysis
-
-Conclusions
+<a name="Introduction"/>
 
 ## A. INTRODUCTION:
 
@@ -29,9 +29,9 @@ In this project, my aim was to answer the following questions:
 
 7)What does the genre distribution look like for movies that made 50 million USD or higher profits?
 
+<a name="DataWrangling"/>
+
 ## B. DATA WRANGLING:
-
-
 
 In order to clean the data, I will be carrying out the following:
 
@@ -52,6 +52,7 @@ In order to clean the data, I will be carrying out the following:
 This cell below will be used to import the packages and the dataset that will be used in this project. I will also include the magic function that renders figures in a notebook. Source for the magic function: https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline
 
 1) Below is a list of the columns I deleted since I didn't use them in my analysis. Then I executed a function that deleted the listed columns. After that, I viewed the first 3 rows of the dataset. 
+
 
 
 ```python
@@ -397,7 +398,7 @@ tmdbData.head(3)
 </table>
 </div>
 
-
+<a name="ExploratoryDataAnalysis"/>
 
 ## C. Exploratory Data Analysis:
 
@@ -1075,6 +1076,7 @@ count.head(10)
 
 Answer 8: The top three actors associated with high profit movies are Tom Cruise, Brad Pitt and Tom Hanks. 
 
+<a name="Conclusions"/>
 
 ## D. Conclusions:
 
