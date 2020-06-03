@@ -809,7 +809,7 @@ plt.show()
 ```
 
 
-![png](output/output_34_0.png)
+![png](imgs/output_34_0.png)
 
 
 ### Question 6: A) In which year, were the total profits of all the movies produced in that year the highest and the lowest? B) Since 1960, how many movies made 50 million USD or higher profits?
@@ -1046,7 +1046,7 @@ plt.show(10)
 ```
 
 
-![png](img/output_46_0.png)
+![png](imgs/output_46_0.png)
 
 
 ### Question 8: What does the cast look like for movies that made 50 million USD or higher profits? Which actors/actresses are associated with profitable movies?
