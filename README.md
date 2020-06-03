@@ -4,8 +4,11 @@
 ## TABLE OF CONTENTS
 
 A. [Introduction](#Introduction)
+
 B. [Data Wrangling](#DataWrangling)
+
 C. [Exploratory Data Analysis](#ExploratoryDataAnalysis)
+
 D. [Conclusions](#Conclusions)
 
 <a name="Introduction"/>
@@ -49,7 +52,7 @@ In order to clean the data, I will be carrying out the following:
 
 
 
-This cell below will be used to import the packages and the dataset that will be used in this project. I will also include the magic function that renders figures in a notebook. Source for the magic function: https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline
+This cell below will be used to import the packages and the dataset that will be used in this project. I will also include the magic function that renders figures in a notebook. Source for the magic function: [https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline](https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline)
 
 1) Below is a list of the columns I deleted since I didn't use them in my analysis. Then I executed a function that deleted the listed columns. After that, I viewed the first 3 rows of the dataset. 
 
