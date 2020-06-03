@@ -18,19 +18,22 @@ D. [Conclusions](#Conclusions)
 TMDb movies dataset contained information about ten thousand movies and consisted of 21 columns.
 In this project, my aim was to answer the following questions:
     
-1)Which movies had the most and the least profit?
+1) Which movies had the most and the least profit?
 
-2)Which movies had the largest and smallest budgets?
+2) Which movies had the largest and smallest budgets?
 
-3)Which movies had the largest and smallest revenues?
+3) Which movies had the largest and smallest revenues?
 
-4)What was the average runtime of all the movies?
+4) What was the average runtime of all the movies?
 
-5)What does the distribution of the runtimes look like? Is it skewed in one direction or is it a normal distribution? (Also plot the runtime distribution using different graph types)
+5) What does the distribution of the runtimes look like? Is it skewed in one direction or is it a normal distribution? (Also plot the runtime distribution using different graph types)
 
-6)A) In which year, were the total profits of all the movies produced in that year the highest? B) Since 1960, how many movies made 50 million USD or higher profits?
+6)
+   - In which year, were the total profits of all the movies produced in that year the highest? 
+    - Since 1960, how many movies made 50 million USD or higher profits?
 
-7)What does the genre distribution look like for movies that made 50 million USD or higher profits?
+7) What does the genre distribution look like for movies that made 50 million USD or higher profits?
+
 
 <a name="DataWrangling"/>
 
