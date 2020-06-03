@@ -1042,7 +1042,7 @@ plt.show(10)
 ```
 
 
-![png](output_46_0.png)
+![png](img/output_46_0.png)
 
 
 ### Question 8: What does the cast look like for movies that made 50 million USD or higher profits? Which actors/actresses are associated with profitable movies?
